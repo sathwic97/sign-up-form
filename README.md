@@ -2,7 +2,7 @@ This is a project created with Vite, react-hook-form, yup and material UI.
 
 This project has been made to practise the form validations with react-hook-form in the scene of material UI.
 
-deployed @ https://www.sign-up-demo1.netlify.app
+deployed @ www.sign-up-demo1.netlify.app
 
 Steps to run the Project :
 
